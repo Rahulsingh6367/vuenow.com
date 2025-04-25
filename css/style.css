@@ -455,6 +455,9 @@ li.menu-item-has-children a.main-link{
     margin-left: 10px;
     color: #fff;
 }
+.about-info.ventures-page {
+    margin-top: 50px;
+}
 .navigation-menu.classic .nav-menu .menu-toggle .icon {
     background-color: #FFF;
 }
@@ -4106,8 +4109,10 @@ li.menu-item-has-children a.main-link{
     margin-top: 60px;
 }
 .team img {
-    height: 270px;
+    height: 500px;
     width: 100% !important;
+    object-fit: fill;
+    object-fit: cover;
 }
 .team-about img {
     width: 100%;
