@@ -30,6 +30,9 @@ body {
 .text-capitalize {
     text-transform: capitalize !important;
 }
+.img-section .team-info.bg-white {
+    height: 260px;
+}
 .hidden {
     display: none;
 }
