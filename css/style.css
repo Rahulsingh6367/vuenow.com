@@ -4115,6 +4115,12 @@ li.menu-item-has-children a.main-link{
     object-fit: cover;
 	
 }
+.img-section img {
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+    fill-opacity: revert;
+}
 .team-about img {
     width: 100%;
 }
