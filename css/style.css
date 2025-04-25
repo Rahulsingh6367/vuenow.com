@@ -1048,7 +1048,7 @@ li.menu-item-has-children a.main-link{
         display: none;
     }
     .menu-wrap.mobile img {
-        width: 160px;
+        width: 80px;
     }
     .menu-item.active {
         background-color: #d31346;
